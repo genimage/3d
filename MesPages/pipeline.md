@@ -7,21 +7,31 @@ key: Home
 # articles:
 #   excerpt_type: html
 
+aside:
+  toc: true
+
 sidebar:
   nav: docs-en
 
 ---
-__________
+
+_____
 
 
-### Diagramme
+# Pipeline
+
+kflkdjs
+
+
+
+## Diagramme
 
 ![PipelineDiagram]({{"/assets/images/3dAnimatedMoviePipeline.svg" | absolute_url}})
 
 Voici une vue schématique simplifiée du pipeline de production d'un film d'animation 3D\\
 Chaque noeud 
 
-### Coucou POPO
+## Coucou POPO
 
 * fglkgmdflkgmldf
 * fgkdfmgl **dmflkg**
