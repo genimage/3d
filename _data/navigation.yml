@@ -21,9 +21,9 @@ docs-en:
       - title:  Diagramme
         url:    /MesPages/pipeline
       - title:  Mou
-        url:    /MesPages/Mou
+        url:    /MesPages/mou
       - title:  G
-        url:    /MesPages/Mou
+        url:    /MesPages/trou
   - title:      Ressources
     children:
       - title:  Glossaire

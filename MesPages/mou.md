@@ -1,17 +1,19 @@
 ---
 layout: article
-titles: mou
+titles: Mou
 permalink: /MesPages/mou
 key: Home
+
 # articles:
 #   excerpt_type: html
 
 sidebar:
   nav: docs-en
+
 ---
 __________
 
 
-### mou
+### zu
 
 blahblah
