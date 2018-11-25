@@ -14,17 +14,18 @@ header:
     # url:        /about.html
     
 docs-en:
-  - title:      UN
-    
+  - title:      Pipeline
     children:
-      - title:  Amour
-        url:    /MesPages/a
-      - title:  Biclou
-        url:    /MesPages/b
-      
-  - title:      Deux
+      - title:  A
+        url:    
+      - title:  Diagramme
+        url:    /MesPages/pipeline
+      - title:  Mou
+        url:    /MesPages/Mou
+      - title:  G
+        url:    /MesPages/Mou
+  - title:      Ressources
     children:
-      - title:  Configuration
-        url:    /docs/en/configuration
-      - title:  trululu
-        url:    /docs/en/navigation
+      - title:  Glossaire
+        url:    /MesPages/glossaire
+
