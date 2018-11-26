@@ -14,18 +14,18 @@ header:
     # url:        /about.html
     
 docs-en:
-  - title:      Pipeline
+  - title:      Généralités
     children:
       - title:  A
         url:    
-      - title:  Diagramme
-        url:    /MesPages/pipeline
+      - title:  Pipeline
+        url:    /pages/pipeline
       - title:  Mou
-        url:    /MesPages/mou
+        url:    /pages/mou
       - title:  G
-        url:    /MesPages/trou
+        url:    /pages/trou
   - title:      Ressources
     children:
       - title:  Glossaire
-        url:    /MesPages/glossaire
+        url:    /pages/glossaire
 

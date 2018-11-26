@@ -1,7 +1,7 @@
 ---
 layout: article
 titles: Trou
-permalink: /MesPages/trou
+permalink: /pages/trou
 key: Home
 
 # articles:

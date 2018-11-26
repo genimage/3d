@@ -1,19 +1,16 @@
 ---
 layout: article
-titles: Mou
-permalink: /MesPages/mou
+titles: Glossaire
+permalink: /pages/glossaire
 key: Home
-
 # articles:
 #   excerpt_type: html
 
 sidebar:
   nav: docs-en
-
 ---
-__________
+______
 
 
-### zu
-
-blahblah
+### Pipeline
+truc qui pue
