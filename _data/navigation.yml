@@ -16,14 +16,48 @@ header:
 docs-en:
   - title:      Généralités
     children:
-      - title:  A
-        url:    
+      - title:  Présentation
+        url:    /pages/presentation
       - title:  Pipeline
         url:    /pages/pipeline
-      - title:  Mou
-        url:    /pages/mou
-      - title:  G
-        url:    /pages/trou
+
+  - title:      Les Départements
+    children:
+      - title:  Script/Scénario
+        url:    
+      - title:  Design
+        url:    
+        children:
+      - title:  Storyboard
+        url:    
+        children:
+      - title:  Modeling
+        url:    
+        children:
+      - title:  Texturing
+        url:    
+        children:
+      - title:  Shading
+        url:    
+        children:
+      - title:  Rigging
+        url:    
+        children:
+      - title:  Layout
+        url:    
+        children:
+      - title:  Animation
+        url:    
+        children:
+      - title:  Rendering
+        url:    
+        children:
+      - title:  Compositing
+        url:    
+        children:
+      - title:  Editing
+        url:    
+
   - title:      Ressources
     children:
       - title:  Glossaire
