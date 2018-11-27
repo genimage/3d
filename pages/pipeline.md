@@ -16,8 +16,6 @@ _____
 
 # Pipeline
 
-Test
-
 Un pipeline de production est l'organisation des tâches à affectuer pour fabriquer un produit.
 ( a prononcer *paill'p'laill'ne* ou *paillEpEUlaillne* pour les marseillais :wink:)
 
