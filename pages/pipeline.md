@@ -27,7 +27,7 @@ Un pipeline de production est l'organisation des tâches à affectuer pour fabri
 
 Voici une vue schématique **simplifiée** du pipeline de production d'un film d'animation 3D.
 
-Les studios d'animation organisent leurs ressources humaines en groupes  appelés **départements**.
+Les studios d'animation organisent leurs ressources humaines en groupes spécialisés appelés **départements**.
 {:.info}
 
 Sur ce schéma les départements sont connectés par des flèches de dépendance (on ne peut pas commencer les tâches d'un département avant que les tâches du département précédent ne soient terminées)\\
@@ -57,12 +57,3 @@ La production d'un film ou d'une série d'animation est segmentée en parties da
 * La pré-production est la période de conception du projet et de la préparation du travail de production (effectifs restreints)
 * La production est la phase où le projet est fabriqué (maximum des effectifs)
 * La post-production est la phase de finalisation des images
-
-
-
-
-
-
-
-
- 

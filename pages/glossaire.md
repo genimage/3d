@@ -10,7 +10,3 @@ sidebar:
   nav: docs-en
 ---
 ______
-
-
-### Pipeline
-truc qui pue
