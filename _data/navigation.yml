@@ -12,7 +12,7 @@ header:
       # zh-Hans:  关于
       # zh-Hant:  關於
     # url:        /about.html
-    
+
 docs-en:
   - title:      Généralités
     children:
@@ -24,42 +24,41 @@ docs-en:
   - title:      Les Départements
     children:
       - title:  Script/Scénario
-        url:    
+        url:
       - title:  Design
-        url:    
+        url:
         children:
       - title:  Storyboard
-        url:    
+        url:
         children:
       - title:  Modeling
-        url:    
+        url:    /pages/modeling
         children:
       - title:  Texturing
-        url:    
+        url:
         children:
       - title:  Shading
-        url:    
+        url:
         children:
       - title:  Rigging
-        url:    
+        url:
         children:
       - title:  Layout
-        url:    
+        url:
         children:
       - title:  Animation
-        url:    
+        url:
         children:
       - title:  Rendering
-        url:    
+        url:
         children:
       - title:  Compositing
-        url:    
+        url:
         children:
       - title:  Editing
-        url:    
+        url:
 
   - title:      Ressources
     children:
       - title:  Glossaire
         url:    /pages/glossaire
-
