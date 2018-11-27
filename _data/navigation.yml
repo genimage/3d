@@ -57,6 +57,12 @@ docs-en:
         children:
       - title:  Editing
         url:
+  - title:      TP
+    children:
+      - title:  Naviguer dans Maya
+        url:
+      - title:  Direct modeling
+        url:
 
   - title:      Ressources
     children:
