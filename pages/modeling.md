@@ -41,4 +41,4 @@ Une re-topologie a été effectuée
 
 Voici un autre exemple d'un début de re-topologie
 
-Les polygones sont créés par dessus un sculpt 3D très détaillé ayant une topologie anarchique, l'artiste s'en sers comme guide.
+Les polygones sont créés par dessus un sculpt 3D très détaillé ayant une topologie anarchique, l'artiste s'en sert comme guide.
