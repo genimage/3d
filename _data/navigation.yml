@@ -24,12 +24,12 @@ docs-en:
   - title:      Les Départements
     children:
       - title:  Script/Scénario
-        url:
+        url:    /pages/wip
       - title:  Design
-        url:
+        url:    /pages/wip
         children:
       - title:  Storyboard
-        url:
+        url:    /pages/wip
         children:
       - title:  Modeling
         url:    /pages/modeling
@@ -38,33 +38,33 @@ docs-en:
         url:    /pages/texturing
         children:
       - title:  Shading
-        url:
+        url:    /pages/wip
         children:
       - title:  Rigging
-        url:
+        url:    /pages/wip
         children:
       - title:  Layout
-        url:
+        url:    /pages/wip
         children:
       - title:  Animation
-        url:
+        url:    /pages/wip
         children:
       - title:  Rendering
-        url:
+        url:    /pages/wip
         children:
       - title:  Compositing
-        url:
+        url:    /pages/wip
         children:
       - title:  Editing
-        url:
+        url:    /pages/wip
   - title:      TP
     children:
       - title:  Naviguer dans Maya
-        url:
+        url:    /pages/wip
       - title:  Direct modeling
-        url:
+        url:    /pages/wip
 
   - title:      Ressources
     children:
-      - title:  Glossaire
-        url:    /pages/glossaire
+      - title:  Gallerie Topologie
+        url:    /pages/GalleryTopo

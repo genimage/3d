@@ -26,7 +26,5 @@ Elle se décompose en 2 parties :
 Pour appliquer une image 2D sur un objet 3D il est nécessaire de créer une **projection**, cette étape est appelée UV (on dit "faire les UV")
 
 ![UvWrap]({{"/assets/images/UvWrap.gif" | absolute_url}})
-
-![UvWrap2]({{"/assets/images/UvWrap2.gif" | absolute_url}})
-
+![UvWrap2]({{"/assets/images/UvWrap2.jpg" | absolute_url}})
 ![UvWrap3]({{"/assets/images/UvWrap3.gif" | absolute_url}})

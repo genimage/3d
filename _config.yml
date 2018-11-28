@@ -161,6 +161,7 @@ highlighter : rouge
 permalink   : date
 
 exclude:
+  - node_modules
   - CHANGELOG.md
   - HOW_TO_RELEASE.md
   - Gemfile
