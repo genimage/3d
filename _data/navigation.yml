@@ -35,7 +35,7 @@ docs-en:
         url:    /pages/modeling
         children:
       - title:  Texturing
-        url:
+        url:    /pages/texturing
         children:
       - title:  Shading
         url:
