@@ -62,8 +62,8 @@ sidebar:
 
 <ul class="photo-gallery">
   {% for image in page.images %}
-    <a href="{{ image.image_path }}">
-      <img src="{{ image.image_Thumb }}" alt="{{ image.title}}"/>
+    <a href="{{ image.image_path | absolute_url}}">
+      <img src="{{ image.image_Thumb | absolute_url}}" alt="{{ image.title}}"/>
     </a>
   {% endfor %}
 </ul>
