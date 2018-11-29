@@ -62,7 +62,7 @@ docs-en:
       - title:  Naviguer dans Maya
         url:    /pages/wip
       - title:  Direct modeling 1
-        url:    /pages/wip
+        url:    /pages/directModeling01
 
   - title:      Ressources
     children:
