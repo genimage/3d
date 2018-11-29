@@ -96,17 +96,47 @@ Ici nous avons 4 spheres ayant la même forme, le même volume mais leurs topolo
 
 * Il existe de nombreuses autres raisons dans la suite des cours qui démontreront  l'importance d'une bonne topologie
 
+
+
+
 Une bonne topologie n'est pas une option c'est une nécéssité fondamentale pour le films d'animation
 {:.error}
 
 ### Comment fait-on une bonne topologie ?
 
 Il n'existe pas **encore** de programme faisant automatiquement des topologies aussi bonnes que les modeleurs professionnels\\
-Il n'existe pas à ma connaissance de recette miracle... l'expérience est primordiale.\\
+Il n'existe pas à ma connaissance de recette miracle... l'expérience est primordiale.
 
 Il existe néamoins des régularités et avec de la pratique on y arrive assez intuitivement.
 
-[![TopologySkin]({{"/assets/images/TopologySkin.gif" | absolute_url}} "tooltip")](http://www.google.com)
+Quelques règles vers lesquelles tendre (attention il est impossible de modeliser en les appliquant toutes strictement):
+
+![TopologyRule01.jpg]({{"/assets/images/TopologyRule01.jpg" | absolute_url}})
+
+* Utiliser uniquement des polygones à 4 cotés (quad)
+
+![TopologyRule03.jpg]({{"/assets/images/TopologyRule03.jpg" | absolute_url}})
+
+* Un quad doit avoir ses angles proches 90° (shearing)
+
+![TopologyRule04.jpg]({{"/assets/images/TopologyRule04.jpg" | absolute_url}})
+
+* Un quad doit être coplanaire (ses points sont sur un même plan)
+
+![TopologyRule02.jpg]({{"/assets/images/TopologyRule02.jpg" | absolute_url}})
+
+* Les lignes doivent être répartie progressivement
+* Pour marquer un angle il faut plusieurs lignes rapprochée
+* Un quad ne doit pas avoir un côté très petit et un autre très long (mais plutôt se rapprocher d'un carré)
+
+![TopologyRule05.jpg]({{"/assets/images/TopologyRule05.jpg" | absolute_url}})
+
+* Dans le cas d'un animal ou d'un humain les lignes suivent les formes des muscles
+
+**Il faut étudier attentivement des maillages de qualité professionnelle et s'en servir comme référence:**
+
+[Gallerie d'exemples de topologies]({{"/pages/GalleryTopo.html" | absolute_url}}){:.button.button--success.button--pill}
+
 
 
 
