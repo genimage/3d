@@ -61,8 +61,11 @@ docs-en:
     children:
       - title:  Naviguer dans Maya
         url:    /pages/wip
-      - title:  Direct modeling 1
-        url:    /pages/directModeling01
+      - title:  TP Direct Modeling 01
+        url:    /pages/TpDirectModeling01
+      - title:  TP Zbrush Sculpt 01
+        url:    /pages/TpZbrushSculpt01
+
 
   - title:      Ressources
     children:

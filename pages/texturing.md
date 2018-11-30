@@ -28,3 +28,4 @@ Pour appliquer une image 2D sur un objet 3D il est nécessaire de créer une **p
 ![UvWrap]({{"/assets/images/UvWrap.gif" | absolute_url}})
 ![UvWrap2]({{"/assets/images/UvWrap2.jpg" | absolute_url}})
 ![UvWrap3]({{"/assets/images/UvWrap3.gif" | absolute_url}})
+![UVMap.jpg]({{"/assets/images/UVMap.jpg" | absolute_url}})

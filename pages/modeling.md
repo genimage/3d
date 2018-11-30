@@ -185,9 +185,9 @@ Curve revolution
 Extrude along curve
 
 
-Le TP relatif à ce cours:
+TP relatif à ce cours:
 
-[TP Direct Modeling 1]({{"/pages/directModeling01.html" | absolute_url}}){:.button.button--success.button--pill}
+[TP Direct Modeling 1]({{"/pages/TpDirectModeling01.html" | absolute_url}}){:.button.button--success.button--pill}
 
 
 ## Sculpt et re-topologie
@@ -201,8 +201,17 @@ Sur cette image on peut voir une sculpture réelle en argile du visage de Woody 
 Un artiste a sculpté le visage puis le model a été scanné en 3D.
 Une re-topologie a été effectuée
 
-![Modeling_Retopology]({{"/assets/images/Modeling_Retopology.jpg" | absolute_url}})
+![Sculpt1.gif]({{"/assets/images/Sculpt1.gif" | absolute_url}})
 
-Voici un autre exemple d'un début de re-topologie
+Il existe des logiciels de sculpt 3D comme Zbrush qui permettent de "sculpter" en 3D.\\
+L'artiste a à sa diposition des outils de scuplt et contrairement au direct modeling il ne se soucit pas de la topologie, une re-topologie sera effectuée enssuite.
 
+
+![Topology2.gif]({{"/assets/images/Topology2.gif" | absolute_url}})
+
+Voici un autre exemple d'un début de re-topologie.\\
 Les polygones sont créés par dessus un sculpt 3D très détaillé ayant une topologie anarchique, l'artiste s'en sert comme guide.
+
+TP relatif à ce cours:
+
+[TP ZbrushSculpt 1]({{"/pages/TpZbrushSculpt01.html" | absolute_url}}){:.button.button--success.button--pill}
