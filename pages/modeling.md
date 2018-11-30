@@ -19,6 +19,10 @@ _____
 Le modeling est la tâche qui consiste a créer les objets en volume.
 {:.info}
 
+<div>{%- include extensions/vimeo.html id='288032997' -%}</div>
+
+Un exemple de modeling de décors (set modeling) pour la série d'animation "Arthur et les Minimoys"
+
 Les objets 3D sont composés de points (ou vertex, vertices au pluriel), d'edges (ou arêtes, cotés) et de faces ( ou polygones).\\
 On les appelle composants (components).
 
