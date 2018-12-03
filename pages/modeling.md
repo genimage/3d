@@ -208,7 +208,7 @@ Une re-topologie a été effectuée
 ![Sculpt1.gif]({{"/assets/images/Sculpt1.gif" | absolute_url}})
 
 Il existe des logiciels de sculpt 3D comme Zbrush qui permettent de "sculpter" en 3D.\\
-L'artiste a à sa diposition des outils de scuplt et contrairement au direct modeling il ne se soucit pas de la topologie, une re-topologie sera effectuée enssuite.
+L'artiste a à sa diposition des outils de scuplt et contrairement au direct modeling il ne se soucie pas de la topologie, une re-topologie sera effectuée ensuite.
 
 
 ![Topology2.gif]({{"/assets/images/Topology2.gif" | absolute_url}})
