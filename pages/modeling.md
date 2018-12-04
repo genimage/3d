@@ -219,3 +219,18 @@ Les polygones sont créés par dessus un sculpt 3D très détaillé ayant une to
 TP relatif à ce cours:
 
 [TP ZbrushSculpt 1]({{"/pages/TpZbrushSculpt01.html" | absolute_url}}){:.button.button--success.button--pill}
+
+
+
+## Procedural modeling
+
+La modélisation procedurale (procedural modeling) est une méthode où le mesh est généré par de la programmation ou par une suite de méthode représentée par un graph.
+L'artiste a accès à des paramètres pour controler les caractéristiques du modèle.
+{:.info}
+
+
+<div>{%- include extensions/vimeo.html id='302514452' -%}</div>
+
+Video example de modélisation procedural de temple grec.
+
+L'avantage de la modélisation procédurale est la capacité à générer massivement du contenu d'une grande variété, par exemple pour modéliser une ville.\\
