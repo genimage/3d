@@ -231,6 +231,6 @@ L'artiste a accès à des paramètres pour controler les caractéristiques du mo
 
 <div>{%- include extensions/vimeo.html id='302514452' -%}</div>
 
-Video example de modélisation procedural de temple grec.
+Video exemple de modélisation procedurale de temple grec.
 
 L'avantage de la modélisation procédurale est la capacité à générer massivement du contenu d'une grande variété, par exemple pour modéliser une ville.\\
