@@ -211,6 +211,15 @@ Il existe des logiciels de sculpt 3D comme Zbrush qui permettent de "sculpter" e
 L'artiste a à sa diposition des outils de scuplt et contrairement au direct modeling il ne se soucie pas de la topologie, une re-topologie sera effectuée ensuite.
 
 
+<div>{%- include extensions/vimeo.html id='55988453' -%}</div>
+
+Un exemple de sculpt par Shane Olson avec Zbrush.
+
+[Voir Tuto de Shane Olson ]({{"/pages/ZbrushRessources.html" | absolute_url}}){:.button.button--success.button--pill}
+
+
+
+
 ![Topology2.gif]({{"/assets/images/Topology2.gif" | absolute_url}})
 
 Voici un autre exemple d'un début de re-topologie.\\

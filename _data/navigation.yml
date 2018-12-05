@@ -71,3 +71,5 @@ docs-en:
     children:
       - title:  Gallerie Topologie
         url:    /pages/GalleryTopo
+      - title:  Zbrush Ressources
+        url:    /pages/ZbrushRessources
