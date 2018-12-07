@@ -23,7 +23,7 @@ _____
 
 Votre mission est d'accomplir le travail suivant sur une semaine:
 
-*Un homme entre dans sa cuisine et trouve une perceuse sur le plan de travail... il va l'utiliser d'une façon inhabituelle.*
+*Un homme entre dans sa cuisine et trouve une perceuse sur le plan de travail... il va l'utiliser d'une façon inhabituelle !*
 {:.success}
 
 * **Lundi**: Trouvez une idée humoristique pour votre scénette (une idée par élève)
