@@ -34,7 +34,7 @@ Votre mission est d'accomplir le travail suivant sur une semaine:
 
 
 
-Le projet sera sauvegardé sur dropbox dans votre répertoire **user** avec la structure et la nommeclature suivante:
+Le projet sera sauvegardé sur dropbox dans votre répertoire **user** avec la structure et la nomenclature suivante:
 {:.error}
 
 **MessInTheKitchen**
