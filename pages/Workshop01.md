@@ -28,7 +28,7 @@ Votre mission est d'accomplir le travail suivant sur une semaine:
 
 * **Lundi**: Trouvez une idée humoristique pour votre scénette (une idée par élève)
 * **Lundi**: Storyboardez une action de 15 secondes
-* **Mardi et mercredi** : Créez le décor de la cuisine **ensemble**. Il vous faudra désigner un chef d'équipe, il devra organiser  et répartir le travail ( 1 ou 2 objets à modéliser par éléve). Les objets devront être subdivisables (attention à la propreté des meshs et à la nomenclature).
+* **Mardi et mercredi** : Créez le décor de la cuisine **ensemble**. Il vous faudra désigner un chef d'équipe, il devra organiser  et répartir le travail ( 1 ou 2 objets à modéliser par éléve). Les objets devront être subdivisables (attention à la propreté du mesh et à la nomenclature).
 * **Jeudi et vendredi**: Faites un blocking avec les golden key poses (Le personnage est fourni par Virginie), créer une scene maya par plan.
 * **vendredi**: Exportez le montage final. (utilisation d' Adobe première)
 
