@@ -189,7 +189,9 @@ Curve revolution
 Extrude along curve
 
 
-TP relatif à ce cours:
+TP relatifs à ce cours:
+
+[TP Naviguer dans maya]({{"/pages/MayaNavigation.html" | absolute_url}}){:.button.button--success.button--pill}
 
 [TP Direct Modeling 1]({{"/pages/TpDirectModeling01.html" | absolute_url}}){:.button.button--success.button--pill}
 

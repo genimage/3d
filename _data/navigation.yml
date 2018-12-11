@@ -59,8 +59,8 @@ docs-en:
         url:    /pages/wip
   - title:      TP
     children:
-      - title:  Naviguer dans Maya
-        url:    /pages/wip
+      - title:  TP Naviguer dans Maya
+        url:    /pages/MayaNavigation
       - title:  TP Direct Modeling 01
         url:    /pages/TpDirectModeling01
       - title:  TP Zbrush Sculpt 01
