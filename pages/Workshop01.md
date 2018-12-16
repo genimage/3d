@@ -1,13 +1,13 @@
 ---
-layout: article
+layout: page
 titles: Workshop01
 permalink: /pages/Workshop01
 
-aside:
-  toc: true
+#aside:
+#  toc: true
 
-sidebar:
-  nav: docs-en
+#sidebar:
+#  nav: docs-en
 
 ---
 
@@ -26,11 +26,26 @@ Votre mission est d'accomplir le travail suivant sur une semaine:
 *Un homme entre dans sa cuisine et trouve une perceuse sur le plan de travail... il va l'utiliser d'une façon inhabituelle !*
 {:.success}
 
-* **Lundi**: Trouvez une idée humoristique pour votre scénette (une idée par élève)
-* **Lundi**: Storyboardez une action de 15 secondes
-* **Mardi et mercredi** : Créez le décor de la cuisine **ensemble**. Il vous faudra désigner un chef d'équipe, il devra organiser  et répartir le travail ( 1 ou 2 objets à modéliser par éléve). Les objets devront être subdivisables (attention à la propreté du mesh et à la nomenclature).
-* **Jeudi et vendredi**: Faites un blocking avec les golden key poses (Le personnage est fourni par Virginie), Créez une scene maya par plan.
-* **vendredi**: Exportez le montage final. (utilisation d' Adobe première)
+
+### Lundi
+* **10h-12h** : Trouvez une idée humoristique pour votre scénette (une idée par élève)
+* **13h-15h** : Storyboardez une action de 15 secondes (1ère partie)
+* **15h-18h** :  Modélisez le décor de la cuisine **ensemble**. Il vous faudra désigner un chef d'équipe, il devra organiser  et répartir le travail ( 1 ou 2 objets à modéliser par éléve). Les objets devront être subdivisables (attention à la propreté du mesh et à la nomenclature) (1ère partie) .
+
+### Mardi
+* **9h-12h** : Storyboard (2ème partie)
+* **13h-18h** : Modeling décors (2ème partie)
+
+### Mercredi
+* **10h-12h** :Assemblage du décor.
+* **13h-19h** : Faites un blocking avec les golden key poses (Le personnage est fourni), Créez une scene maya par plan.
+
+### Jeudi
+* **10h-12h**: Cleanez le storyboard (3ème partie).
+* **16h-19h** : Montage de vos plan 3D avec Première.
+
+### Vendredi
+* Coaching avec Bérengère + Oral.
 
 
 

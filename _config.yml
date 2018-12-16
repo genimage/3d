@@ -161,7 +161,7 @@ highlighter : rouge
 permalink   : date
 
 exclude:
-  - node_modules
+  - [node_modules]
   - CHANGELOG.md
   - HOW_TO_RELEASE.md
   - Gemfile
@@ -178,6 +178,10 @@ exclude:
   - /screenshots
   - /test
   - /vendor
+  - archive.html
+  - 404.html
+  - about.html
+
 
 defaults:
   - scope:
@@ -196,7 +200,7 @@ defaults:
 ## => Plugins
 ##############################
 plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
+##  - jekyll-feed
+##  - jekyll-paginate
+##  - jekyll-sitemap
   - jemoji

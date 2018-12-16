@@ -13,16 +13,6 @@ sidebar:
 
 _____
 
-Qu'est ce qu'un film d'animation 3D ? 
+Qu'est ce qu'un film d'animation 3D ?
 
 # Présentation
-
-
-
-
-
-
-
-
-
- 
