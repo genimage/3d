@@ -18,5 +18,5 @@ _____
 
 ![Armchair]({{"/assets/images/Armchair.jpg" | absolute_url}})
 
-*Modelisez cette chaise à l'identique, l'objet doit être subdisable.
-*Chronométrez le temps de fabrication
+* Modelisez cette chaise à l'identique, l'objet doit être subdisable.
+* Chronométrez le temps de fabrication
