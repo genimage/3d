@@ -3,11 +3,7 @@ layout: article
 titles: Partiel 01
 permalink: /pages/Partiel01
 
-aside:
-  toc: false
 
-sidebar:
-  nav: docs-en
 
 ---
 
