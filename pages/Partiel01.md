@@ -16,11 +16,11 @@ _____
 
 # Toy Robot
 
-![Robot]({{"/assets/images/Robot" | absolute_url}})
+![Robot]({{"/assets/images/Robot.jpg" | absolute_url}})
 
-![RobotBack]({{"/assets/images/RobotBack" | absolute_url}})
+![RobotBack]({{"/assets/images/RobotBack.jpg" | absolute_url}})
 
-![RobotExploded]({{"/assets/images/RobotExploded" | absolute_url}})
+![RobotExploded]({{"/assets/images/RobotExploded.jpg" | absolute_url}})
 
 
 * Modelisez ce robot à l'identique, les objets doivent être subdivisables
