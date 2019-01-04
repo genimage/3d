@@ -19,7 +19,7 @@ _____
 
 <div>{%- include extensions/youtube.html id='PzfyeV52YHk' -%}</div>
 
-* Sculper un rocher sur zbrush en s'inspirant de ce tutoriel ( l'outil utilisé est dans la lightbox/Brush/Trim/TrimSmoothBorder )
+* Sculpter un rocher sur zbrush en s'inspirant de ce tutoriel ( l'outil utilisé est dans la lightbox/Brush/Trim/TrimSmoothBorder )
 * Exporter le rocher au format "obj"
 
 <div>{%- include extensions/youtube.html id='xpDWta5O3n8' -%}</div>
@@ -28,7 +28,7 @@ _____
 * Importer le rocher dans maya
 * Faire sa retopologie
 * Faire ses UVs dans maya 
-* Exporter le rocher **retopo** en obj
-* Importer le rocher **retopo** dans Zbrush
-* Faire la projection dans Zbrush
+* Exporter le rocher *retopo* en obj
+* Importer le rocher *retopo* dans Zbrush
+* Faire la **projection** dans Zbrush
 * Générer la map de displacement et la normal map
