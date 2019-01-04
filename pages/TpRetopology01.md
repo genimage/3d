@@ -25,7 +25,7 @@ _____
 <div>{%- include extensions/youtube.html id='xpDWta5O3n8' -%}</div>
 
 * Etudier ce tuto de retopologie avec les outils de maya.
-* Importez le rocher dans maya
+* Importer le rocher dans maya
 * Faire sa retopologie
 * Faire ses UVs dans maya 
 * Exporter le rocher **retopo** en obj
