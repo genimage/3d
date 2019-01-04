@@ -65,6 +65,8 @@ docs-en:
         url:    /pages/TpDirectModeling01
       - title:  TP Zbrush Sculpt 01
         url:    /pages/TpZbrushSculpt01
+      - title:  TP Retopology 01
+        url:    /pages/TpRetopology01
       - title:  Devoirs
         url:    /pages/Homework
 
