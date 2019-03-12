@@ -1,7 +1,7 @@
 ---
 layout: article
-titles: 1stGradeProject
-permalink: /pages/1stGradeProject
+titles: RoomProject
+permalink: /pages/RoomProject
 
 aside:
   toc: true
@@ -14,7 +14,7 @@ sidebar:
 _____
 
 
-# 1stGradeProject
+# RoomProject
 
 ## Sujet
 
