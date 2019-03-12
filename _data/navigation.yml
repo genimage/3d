@@ -70,6 +70,10 @@ docs-en:
       - title:  Devoirs
         url:    /pages/Homework
 
+   - title:      Projets
+    children:
+      - title: 1stGradeProject
+        url:    /pages/1stGradeProject
 
   - title:      Ressources
     children:
