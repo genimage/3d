@@ -44,7 +44,7 @@ S'assurer que la valeur de l'option de l'outil layout "Shell Pre-Scaling" soit s
 * Le selectionner et l'exporter en obj ( OrcSword_HD.obj)
 * Ouvrir Substance Painter
 * Importer son objet (file/new) + Document resolution 4096
-* Enregistrer votre projet.
+* Enregistrer son projet (.spp)
 * Réaliser les textures et matériaux dans substance painter et photoshop (zbrush non admis)
 
 Vous pouvez télécharger des textures sur internet
@@ -56,7 +56,7 @@ Vous pouvez télécharger des textures sur internet
 Ne pas exporter pas les textures de substance painter. Je corrigerais en ouvrant le fichier .spp
 {:.info}
 
-* Livrer votre dossier de travail sur la clé usb du surveillant
+* Livrer son dossier de travail sur la clé usb du surveillant
 
 
 **Une tolerance zero s'appliquera à la nomenclature. (mauvaise nomenclature-> je ne corrige même pas -> 0 )**
@@ -72,12 +72,15 @@ VotreNom_OrcSword\
 			OrcSword_001.mb
 			OrcSword_00?.mb
 			....
+			OrcSword_001.spp
+			OrcSword_00?.spp
+			....
 			OrcSword_HD.obj
 			OrcSword_UV.png
 			OrcSword_Metal_Mask.psd
 			OrcSword_Metal_Mask.jpg
 			....
-			OrcSword_Leather_???.jpg
+			OrcSword_Leather_??????.jpg
 ~~~~~~
 
 
