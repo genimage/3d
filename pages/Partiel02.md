@@ -35,7 +35,7 @@ S'assurer que la valeur de l'option de l'outil layout "Shell Pre-Scaling" soit s
 * Fusionner les objets (mesh/combine)
 * Re-faire un layout des UVs (pas de superpositions)
 * Assigner un materiau (blinn) aux polygones correspondants au cuir 
-* Nommer le **Shading group** "leather"
+* Nommer le **Shading group** "Leather"
 * Assigner un materiau (blinn) aux polygones correspondants au metal
 * Nommer le **Shading group** "Metal"
 * Dupliquer le model de l'épée
