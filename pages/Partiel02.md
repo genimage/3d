@@ -53,18 +53,18 @@ Une tolerance zero s'appliquera à la nomenclature. (mauvaise nomenclature-> je 
 Nomenclature:
 ~~~~~~
 VotreNom_OrcSword\
-				OrcSword.mb
-				OrcSword.spp
-				OrcSword.jpg
-				WIP\	
-					OrcSword_001.mb
-					OrcSword_00?.mb
-					....
-					OrcSword_HD.obj
-					OrcSword_UV.png
-					OrcSword_Metal_Mask.jpg
-					....
-					OrcSword_Leather_???.jpg
+		OrcSword.mb
+		OrcSword.spp
+		OrcSword.jpg
+		WIP\	
+			OrcSword_001.mb
+			OrcSword_00?.mb
+			....
+			OrcSword_HD.obj
+			OrcSword_UV.png
+			OrcSword_Metal_Mask.jpg
+			....
+			OrcSword_Leather_???.jpg
 ~~~~~~
 
 
