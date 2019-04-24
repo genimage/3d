@@ -16,6 +16,8 @@ _____
 
 
 ![OrcSword]({{"/assets/images/OrcSword.jpg" | absolute_url}})
+![OrcSword]({{"/assets/images/OrcSword02.jpg" | absolute_url}})
+![OrcSword]({{"/assets/images/OrcSword03.jpg" | absolute_url}})
 ![OrcSword]({{"/assets/images/OrcSwordTurn.gif" | absolute_url}})
 
 
