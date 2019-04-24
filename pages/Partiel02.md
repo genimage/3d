@@ -16,6 +16,8 @@ _____
 
 
 ![OrcSword]({{"/assets/images/OrcSword.jpg" | absolute_url}})
+![OrcSword]({{"/assets/images/OrcSwordTurn.gif" | absolute_url}})
+
 
 * L'objet doit être subdivisable (contrairement à l'objet présent sur l'image).
 * Le projet se nomme **OrcSword**
@@ -41,6 +43,10 @@ S'assurer que:
 * Importer son objet (file/new) + Document resolution 4096
 * Enregistrer votre projet.
 * Réaliser les textures et matériaux dans substance painter et photoshop (zbrush non admis)
+
+Vous pouvez télécharger des textures sur internet
+{:.info}
+
 * Faire un Rendu en 1920*1080 dans substance painter  (Mode/Rendering)
 * Sauvegarder l'image rendue
 * Livrer votre dossier de travail sur la clé usb du surveillant
