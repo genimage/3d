@@ -45,7 +45,7 @@ S'assurer que la valeur de l'option de l'outil layout "Shell Pre-Scaling" soit s
 * Ouvrir Substance Painter
 * Importer son objet (file/new) + Document resolution 4096
 * Enregistrer son projet (.spp)
-* Réaliser les textures et matériaux dans substance painter et photoshop (zbrush non admis)
+* Réaliser les textures et matériaux dans substance painter et photoshop,  **pas d'utilisation de Zbrush**
 
 Vous pouvez télécharger des textures sur internet
 {:.info}
