@@ -12,28 +12,27 @@ _____
 
 # OrcSword
 
-Réaliser cette épée en s'approchant au plus prêt de son aspect:
+**Réaliser cette épée en s'approchant au plus prêt de son aspect:**
 
 
 ![OrcSword]({{"/assets/images/OrcSword.jpg" | absolute_url}})
 
 * L'objet doit être subdivisable (contrairement à l'objet présent sur l'image).
-* Le projet se nomme OrcSword
+* Le projet se nomme **OrcSword**
 * Dans un premier temps ,modeliser le cuir et le metal en objets séparés.
 * Faire les UVs
 
 S'assurer que:
-*le module unfold est bien loadé (windows/preferences/plug-in)
-*Les préférences du layout : 
-*Shell Pre-Scaling -> Preserve 3D Ratios
+* le module unfold soit bien loadé (windows/preferences/plug-in)
+* La valeur de l'option de l'outil layout "Shell Pre-Scaling" soit sur "Preserve 3D Ratios"
 {:.info}
 
-* Fusionner les objets (combine)
-* ReFaire un layout des UVs (pas de superpositions)
+* Fusionner les objets (mesh/combine)
+* Re-faire un layout des UVs (pas de superpositions)
 * Assigner un materiau (blinn) aux polygones correspondants au cuir 
-* Nommer le Shading group "leather"
+* Nommer le **Shading group** "leather"
 * Assigner un materiau (blinn) aux polygones correspondants au metal
-* Nommer le Shading group "Metal"
+* Nommer le **Shading group** "Metal"
 * Dupliquer le model de l'épée
 * Lui appliquer une subdivision ( Mesh/Smooth)
 * Nommer Le duplicata OrcSword_HD
