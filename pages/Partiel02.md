@@ -17,33 +17,55 @@ Réaliser cette épée en s'approchant au plus prêt de son aspect:
 
 ![OrcSword]({{"/assets/images/OrcSword.jpg" | absolute_url}})
 
+* L'objet doit être subdivisable (contrairement à l'objet présent sur l'image).
+* Le projet se nomme OrcSword
+* Dans un premier temps ,modeliser le cuir et le metal en objets séparés.
+* Faire les UVs
+
+S'assurer que:
+*le module unfold est bien loadé (windows/preferences/plug-in)
+*Les préférences du layout : 
+*Shell Pre-Scaling -> Preserve 3D Ratios
+{:.info}
+
+* Fusionner les objets (combine)
+* ReFaire un layout des UVs (pas de superpositions)
+* Assigner un materiau (blinn) aux polygones correspondants au cuir 
+* Nommer le Shading group "leather"
+* Assigner un materiau (blinn) aux polygones correspondants au metal
+* Nommer le Shading group "Metal"
+* Dupliquer le model de l'épée
+* Lui appliquer une subdivision ( Mesh/Smooth)
+* Nommer Le duplicata OrcSword_HD
+* Le selectionner et l'exporter en obj ( OrcSword_HD.obj)
+* Ouvrir Substance Painter
+* Importer son objet (file/new) + Document resolution 4096
+* Enregistrer votre projet.
+* Réaliser les textures et matériaux dans substance painter et photoshop (zbrush non admis)
+* Faire un Rendu en 1920*1080 dans substance painter  (Mode/Rendering)
+* Sauvegarder l'image rendue
+* Livrer votre dossier de travail sur la clé usb du surveillant
 
 
+Une tolerance zero s'appliquera à la nomenclature. (mauvaise nomenclature-> je ne corrige même pas -> 0 )
+{:.error}
 
-
+Nomenclature:
 ~~~~~~
 VotreNom_OrcSword\
-			OrcSword.mb
-			OrcSword.spp
-			OrcSword.jpg
-			WIP\	
-				OrcSword_001.mb
-			    OrcSword_00?.mb
-				....
-				OrcSword_HD.obj
-				OrcSword_UV.png
-				OrcSword_Metal_Mask.jpg
-				....
-				OrcSword_Leather_???.jpg
+				OrcSword.mb
+				OrcSword.spp
+				OrcSword.jpg
+				WIP\	
+					OrcSword_001.mb
+					OrcSword_00?.mb
+					....
+					OrcSword_HD.obj
+					OrcSword_UV.png
+					OrcSword_Metal_Mask.jpg
+					....
+					OrcSword_Leather_???.jpg
 ~~~~~~
 
-* Modelisez ce robot à l'identique, les objets doivent être subdivisables
-* La qualité de la topologie, le respect des volumes et des proportions seront les principaux critères de notation.
-* Les objets doivent être nommés et rangés (groupes)
-* Les historiques de fabrication doivent être supprimés
-* La mise en couleur est faculative
-* Vous sauvegarderez les étapes de travail dans votre dossier dropbox
-* Nom du projet: ToyRobot
-* Une fois terminé vous transmettrez à votre surveillant un fichier unique nommé ToyRobot_VotreNomPrenom.mb qu'il mettra sur une clef usb
 
 
