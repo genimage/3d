@@ -24,9 +24,10 @@ _____
 * Dans un premier temps ,modeliser le cuir et le metal en objets séparés.
 * Faire les UVs
 
-S'assurer que:
-* le module unfold soit bien loadé (windows/preferences/plug-in)
-* La valeur de l'option de l'outil layout "Shell Pre-Scaling" soit sur "Preserve 3D Ratios"
+S'assurer que le module unfold soit bien loadé (windows/preferences/plug-in)
+{:.info}
+
+S'assurer que la valeur de l'option de l'outil layout "Shell Pre-Scaling" soit sur "Preserve 3D Ratios"
 {:.info}
 
 * Fusionner les objets (mesh/combine)
@@ -47,12 +48,16 @@ S'assurer que:
 Vous pouvez télécharger des textures sur internet
 {:.info}
 
-* Faire un Rendu en 1920*1080 dans substance painter  (Mode/Rendering)
+* Faire un Rendu en 1920*1080 depuis substance painter  (Mode/Rendering)
 * Sauvegarder l'image rendue
+
+Ne pas exporter pas les textures de substance painter. Je corrigerais en ouvrant le fichier .spp
+{:.info}
+
 * Livrer votre dossier de travail sur la clé usb du surveillant
 
 
-Une tolerance zero s'appliquera à la nomenclature. (mauvaise nomenclature-> je ne corrige même pas -> 0 )
+**Une tolerance zero s'appliquera à la nomenclature. (mauvaise nomenclature-> je ne corrige même pas -> 0 )**
 {:.error}
 
 Nomenclature:
@@ -67,6 +72,7 @@ VotreNom_OrcSword\
 			....
 			OrcSword_HD.obj
 			OrcSword_UV.png
+			OrcSword_Metal_Mask.psd
 			OrcSword_Metal_Mask.jpg
 			....
 			OrcSword_Leather_???.jpg
