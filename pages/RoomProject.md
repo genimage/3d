@@ -140,7 +140,7 @@ Leurs textures correspondantes seront alors nommées ainsi:
 					BottleGlass_1001_Roughness.tif
 					....
 				
-				ChestWood\
+				BottleCork\
 					BottleCork_1001_BaseColor.tif
 					BottleCork_1001_Metallic.tif
 					BottleCork_1001_Normal.tif
