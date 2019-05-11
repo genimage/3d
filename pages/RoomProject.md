@@ -69,7 +69,7 @@ RoomProject\
 			...
 ~~~~~~
 
-Si plusieurs objets doivent avoir le même matériau comme par explemple des pièces de monnaies dupliquée x fois.
+Si plusieurs objets doivent avoir le même matériau comme par exemple des pièces de monnaies dupliquées x fois.
 Dans la scene Maya vous devrez ajouter le séparateur "_" + son numero:
 
 ~~~~~~
